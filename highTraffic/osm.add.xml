@@ -1,0 +1,71 @@
+<additional>
+
+  <rerouter id="REROUTER_0" edges="55668404#1" probability="1">
+  <routing-algorithm value="astar"/>
+  <device.rerouting.probability value="1"/>
+     <interval begin="1000" end="2000">
+      <closingReroute id="37747728#0"/>
+     </interval>
+
+   ... further intervals ...
+
+  </rerouter>
+  
+  <rerouter id="REROUTER_1" edges="4385874#1" probability="1">
+  <routing-algorithm value="astar"/>
+  <device.rerouting.probability value="1"/> 
+     <interval begin="1000" end="2000">
+      <closingReroute id="37747728#0"/>
+                  
+     </interval>
+
+   ... further intervals ...
+
+  </rerouter>
+  
+  <rerouter id="REROUTER_2" edges="-83806426#0" probability="1">
+  <routing-algorithm value="astar"/>
+  <device.rerouting.probability value="1"/>
+     <interval begin="1000" end="2000">
+      <closingReroute id="37747728#0"/>
+     </interval>
+
+   ... further intervals ...
+
+  </rerouter>
+  
+  <rerouter id="REROUTER_3" edges="293281653#1" probability="1">
+  <routing-algorithm value="astar"/>
+  <device.rerouting.probability value="1"/>
+     <interval begin="1000" end="2000">
+      <closingReroute id="37747728#0"/>
+     </interval>
+
+   ... further intervals ...
+
+  </rerouter>
+  
+  <rerouter id="REROUTER_4" edges="4385874#0" probability="1">
+  <routing-algorithm value="astar"/>
+  <device.rerouting.probability value="1"/>
+     <interval begin="1000" end="2000">
+      <closingReroute id="37747728#0"/>
+     </interval>
+
+   ... further intervals ...
+
+  </rerouter>
+  
+  <vTypeProbe id="probe"  period="30" file="probe.xml"/>
+  
+  
+  
+ 
+ 
+  
+  
+</additional>
+
+
+
+
